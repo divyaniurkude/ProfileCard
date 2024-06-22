@@ -18,11 +18,11 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 # Output - 2
 
-![Screenshot (2)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(420).png)
+![Screenshot (2)](https://github.com/divyaniurkude/ProfileCard/blob/main/Screenshot%20(2).png)
 
 # Output - 3
 
-![Screenshot (3)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(421).png)
+![Screenshot (3)](https://github.com/divyaniurkude/ProfileCard/blob/main/Screenshot%20(3).png)
 
 
 
