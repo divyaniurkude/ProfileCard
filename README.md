@@ -14,7 +14,7 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 # Output - 1
 
-![Screenshot (1)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(419).png)
+![Screenshot (1)](https://github.com/divyaniurkude/ProfileCard/blob/main/Screenshot%20(1).png)
 
 # Output - 2
 
